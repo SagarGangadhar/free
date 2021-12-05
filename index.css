@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+input[type="text"] {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+}
+
+.banner {
+  background-color: antiquewhite;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  width: auto;
+  height: auto;
+  background-color: aliceblue;
+  padding: 50px;
+}
